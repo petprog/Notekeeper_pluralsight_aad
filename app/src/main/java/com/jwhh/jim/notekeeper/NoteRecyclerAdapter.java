@@ -3,7 +3,7 @@ package com.jwhh.jim.notekeeper;
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,8 +11,6 @@ import android.widget.TextView;
 
 import com.jwhh.jim.notekeeper.NoteKeeperDatabaseContract.CourseInfoEntry;
 import com.jwhh.jim.notekeeper.NoteKeeperDatabaseContract.NoteInfoEntry;
-
-import java.util.List;
 
 /**
  * Created by Jim.

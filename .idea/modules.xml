@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NoteKeeper.iml" filepath="$PROJECT_DIR$/NoteKeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notekeeper_pluralsight_aad.iml" filepath="$PROJECT_DIR$/Notekeeper_pluralsight_aad.iml" group="Notekeeper_pluralsight_aad" />
+      <module fileurl="file://$PROJECT_DIR$/app/Notekeeper_pluralsight_aad-app.iml" filepath="$PROJECT_DIR$/app/Notekeeper_pluralsight_aad-app.iml" group="Notekeeper_pluralsight_aad/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
